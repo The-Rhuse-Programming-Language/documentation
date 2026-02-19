@@ -1,2 +1,0 @@
-(printf | "The first month of Rhuse was defined by making syntax, writing a REPL, learning compiler design, etc. It's syntax looked similar to Python.")
-(printf | "The second month of Rhuse was defined by studying other compilers/interpreters. It's syntax now looked very similar to Lisp.")
