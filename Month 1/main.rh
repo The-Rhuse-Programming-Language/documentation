@@ -1,0 +1,1 @@
+(printf | "The first month of Rhuse was defined by making syntax, writing a REPL, learning compiler design, etc.")
